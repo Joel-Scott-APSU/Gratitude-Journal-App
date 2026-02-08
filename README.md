@@ -24,3 +24,11 @@ and a responsive React frontend backed by Firebase services.
 - Integrated Firebase authentication and database access
 - Implemented security rules to isolate user data
 - Collaborated as part of a capstone team using GitHub
+
+## Running the Project
+
+This project requires Firebase configuration (Authentication and Realtime Database)
+and is not intended to be run without setting up a Firebase project.
+
+Source code is provided to demonstrate application architecture,
+authentication flow, and data isolation logic.
